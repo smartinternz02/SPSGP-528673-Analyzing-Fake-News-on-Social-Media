@@ -1,5 +1,7 @@
 PROJECT NAME- Analyzing Fake News on Social Media
+
 Domain:AIML
+
 Team deatils:-
   lead-member1: B.Siresha
       member2: Ch.Vaishnavi
